@@ -1,0 +1,8 @@
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\bin\Release\Chat.Server.exe
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\bin\Release\Chat.Server.pdb
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.csprojResolveAssemblyReference.cache
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.ServerGUI.resources
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.Properties.Resources.resources
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.csproj.GenerateResource.Cache
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.exe
+D:\documents\Git\Chat\trunk\Server\Chat.Server\Chat.Server\obj\Release\Chat.Server.pdb

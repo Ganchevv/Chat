@@ -1,0 +1,16 @@
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csprojResolveAssemblyReference.cache
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.ClientGUI.resources
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.Properties.Resources.resources
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.GenerateResource.Cache
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\bin\Debug\Chat.Client.exe
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\bin\Debug\Chat.Client.pdb
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.exe
+D:\documents\Client_Server_Chat\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.pdb
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.exe
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.pdb
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\bin\Debug\Chat.Client.exe
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\bin\Debug\Chat.Client.pdb
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csprojResolveAssemblyReference.cache
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.ClientGUI.resources
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.Properties.Resources.resources
+D:\documents\Git\Chat\trunk\Client\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.GenerateResource.Cache
